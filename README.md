@@ -33,3 +33,11 @@ This was [my](https://github.com/dvillarama) starter project.
 ## Special Thanks
  * The [mentor](https://github.com/fsproru)
 
+---
+## Update 11/18/2013
+ * This fork was to experiment with Heroku
+  * Switch to Heroku
+  * Upgraded to Rails 4.0.1
+  * Switch to PostgreSQL from MySQL
+  * (http://ping-pong-ladder.herokuapp.com/) if it's up
+
